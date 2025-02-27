@@ -5,3 +5,5 @@
 FunctionCallBridge 的http://localhost:5000/v1/chat/completions
 
 即可实现 json_object 和function call的能力。提示词可根据模型情况调整
+
+对deepseek-r1:7b 和14b进行过测试，但是不同函数需要针对提示词修改效果更佳
